@@ -1,0 +1,4 @@
+F:/Advanced_BareMetal_Programming/8_ADC_DMA/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+F:/Advanced_BareMetal_Programming/8_ADC_DMA/chip_headers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	2
+../Src/dma.c:14:6:dma1_mem2mem_config	2
+../Src/dma.c:63:6:dma_transfer_start	1

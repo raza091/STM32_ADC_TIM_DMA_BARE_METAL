@@ -1,0 +1,3 @@
+F:/Advanced_BareMetal_Programming/8_ADC_DMA/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Src/adc_dma.c:24:6:adc_dma_init	3
+../Src/adc_dma.c:100:6:dma_Channel1_IRQHandler	3
